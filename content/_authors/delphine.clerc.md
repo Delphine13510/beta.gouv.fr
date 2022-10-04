@@ -9,7 +9,7 @@ missions:
 startups:
   - partaj
 previously:
-  - camino
+
 competences:
   - Croissance
 ---
